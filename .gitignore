@@ -1,0 +1,10 @@
+/config/config.php
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+/.env
+/storage/imports/*
+!/storage/imports/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+
